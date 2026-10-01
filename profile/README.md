@@ -1,4 +1,4 @@
-# 🏀 Clutch City AppWorks
+# Clutch City AppWorks
 
 **Premier Mobile & Web App Development — Houston, Texas**
 
